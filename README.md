@@ -1,4 +1,4 @@
-Example of building/adding `Mac OS X`/`iOS` framework with CMake and build.py.
+Example of building/adding `Mac OS X`/`iOS` framework with CMake and [build.py](https://github.com/ruslo/polly#buildpy).
 
 ### OS X
 
